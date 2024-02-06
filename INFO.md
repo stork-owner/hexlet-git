@@ -1,3 +1,3 @@
 awsome
 new line
-experement with amend
+I love Hexlet!
