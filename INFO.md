@@ -1,3 +1,3 @@
-git is awesome!
+awsome
 new line
 experement with amend
